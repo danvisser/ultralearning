@@ -1,3 +1,5 @@
+copied from: https://gist.github.com/hlfshell/240d79b124a02a0faad864c1199604b6
+
 # Ultralearning
 The following is the notes I took years ago on the book `Ultralearning` by Scott Young. The bombastic title and promise to learn virtually anything quickly makes it sound as if its the typical marketing-powered fluff-filled nonfiction book stores are overflowing with, but something about this book stuck with me. After finishing it I quickly went back and wrote these thoughts down. While I don't follow his layout of plans regularly, I have used it to guide a lot of my own self education.
 
